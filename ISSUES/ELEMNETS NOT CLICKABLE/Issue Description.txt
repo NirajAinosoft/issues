@@ -1,0 +1,14 @@
+Issue Description:
+
+In the app, there are multiple pages such as:
+
+1-Index
+
+2-Create
+
+3-View
+
+On the Index page, all elements like containers, buttons, and other components are clickable and editable as expected. However, when I navigate to the Create page (Page 2), it takes a few seconds to load completely. After it finishes loading, the issue arises:
+I can type in input fields, but I cannot click on or select other elements such as boxes, containers, or other interactive components.
+
+If I manually refresh or reload the page in Chrome, it redirects back to the Index page. When I navigate to the Create page again, the same issue persists.
